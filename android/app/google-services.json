@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "331855573310",
+    "project_id": "weightapp-23a0c",
+    "storage_bucket": "weightapp-23a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331855573310:android:9a015c0a3cd318cea5fc6f",
+        "android_client_info": {
+          "package_name": "com.upass.weight_tracker.weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331855573310-s332rqgl3o6eduh169p5kpbdiuljouu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upass.weight_tracker.weight_tracker",
+            "certificate_hash": "4653d358fa4b598303f1b0a709497f938908b58f"
+          }
+        },
+        {
+          "client_id": "331855573310-7tjfec1697ibq7qt7ojoma4ungdabmv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi1V8Mo8KFD1tWnxc2mrTWRlBtrIhCcq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331855573310-7tjfec1697ibq7qt7ojoma4ungdabmv7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331855573310-djs2uf8mc13b94uqku41beslp59tq8q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.upass.weightTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
